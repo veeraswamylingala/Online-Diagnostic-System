@@ -1,7 +1,7 @@
 # Online-Diagnostic-System
 Website For Diagnostic Care
 
--HTML -CSS -BOOTSTRAP
+-HTML -CSS 
 
 -PHP -MYSQL
 
